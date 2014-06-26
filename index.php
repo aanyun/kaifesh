@@ -26,7 +26,7 @@
     	<?php include "view/header.php";?>
 	</div> <!-- / .container -->
 
-<div class="carouselWrapper">
+	<div class="carouselWrapper">
     <div id="myCarousel" class="carousel slide">
 	
 				
